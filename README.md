@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD KT</h1>
 <h3 align="left">DATA SCIENTIST and DATA ENGINEER</h3>
 
-<img align="center" alt="cCoding" width="300" src="https://media.licdn.com/dms/image/D4D12AQFhuOkxeHkArA/article-cover_image-shrink_720_1280/0/1692275067087?e=1714608000&v=beta&t=Lm_vLwfmAZBZUPQhUxBOmYO3Bb19JA4tQ0lyood9Jhg">
+<img align="center" alt="Coding" width="250" height="250" src="https://media.licdn.com/dms/image/D4D12AQFhuOkxeHkArA/article-cover_image-shrink_720_1280/0/1692275067087?e=1714608000&v=beta&t=Lm_vLwfmAZBZUPQhUxBOmYO3Bb19JA4tQ0lyood9Jhg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadkt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkt" /> </p>
 

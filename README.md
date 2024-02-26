@@ -1,8 +1,9 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFhuOkxeHkArA/article-cover_image-shrink_720_1280/0/1692275067087?e=1714608000&v=beta&t=Lm_vLwfmAZBZUPQhUxBOmYO3Bb19JA4tQ0lyood9Jhg)]
+[![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)]
 <h1 align="center">Hi 👋, I'm MUHAMMAD KT</h1>
 <h3 align="center">DATA SCIENTIST and DATA ENGINEER</h3>
-<img align="right" alt="cCoding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+<img align="center" alt="cCoding" width="300" src="https://media.licdn.com/dms/image/D4D12AQFhuOkxeHkArA/article-cover_image-shrink_720_1280/0/1692275067087?e=1714608000&v=beta&t=Lm_vLwfmAZBZUPQhUxBOmYO3Bb19JA4tQ0lyood9Jhg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadkt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkt" /> </p>
 

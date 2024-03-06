@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)]]
 <h1 align="center">Hi 👋, I'm MUHAMMAD KT</h1>
 <h3 align="left">DATA SCIENTIST and DATA ENGINEER</h3>
 
